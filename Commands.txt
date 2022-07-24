@@ -1,0 +1,21 @@
+1. Git Initialize: git init
+2. Staging files: git add.
+	      : git add <myName.txt> or git add --all
+
+3.commit to add local repository database : git commit -m "first commit"
+4. Add To remote Github Repository to local repository : git remote add orgin <https://github.com/basavaraj1997/DevopsAss1.git>
+5.check remote commit details : git remote -v
+6. Push code on github: git push origin master
+----after do some changes in file then to check modified file details.. as like..
+7.check status: git status
+--- The reupload/push file those changes done to github.. use below commands..
+8.git commit -m "file modified and replace by basavaraj loni..(Raje)"
+9. git push origin master
+
+
+----Clone the repository---
+10. To clone(download file on computer) : git clone <https://github.com/basavaraj1997/DevopsAss1.git>
+11. after some changes(latest changes) to get our local machin: git pull
+----to check file use below command-----
+cat <file name with extension.>
+
