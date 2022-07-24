@@ -1,5 +1,5 @@
 1. Git Initialize: git init
-2. Staging files: git add.
+2. Staging files: git add
 	      : git add <myName.txt> or git add --all
 
 3.commit to add local repository database : git commit -m "first commit"
@@ -17,5 +17,32 @@
 10. To clone(download file on computer) : git clone <https://github.com/basavaraj1997/DevopsAss1.git>
 11. after some changes(latest changes) to get our local machin: git pull
 ----to check file use below command-----
-cat <file name with extension.>
+12.cat <file name with extension.>
+---send your changes to github using below commands---
+13. git push origin master
+
+
+-----------------config the git users..
+
+git config user.name "Basavaraj"
+git config user.email "basavarajloni1997@gmail.com"
+
+
+
+---------
+git remote add orgin https://github.com/basavaraj1997/DevopsAss1.git
+
+
+------tokan-----
+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
+
+----set again push url with authetication token--using below command-------
+git remote set-url orgin https://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@github.com/basavaraj1997/DevopsAss1.git
+
+
+
+
+
+
+
 
