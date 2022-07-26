@@ -1,0 +1,12 @@
+This is the second Question based on Branch creattion and upload project on git using git command and to observe the changes
+steps are here...
+1. clone the file: git clone -b master <https://github.com/basavaraj1997/DevopsAss1.git>
+2. Created new file as Branch_assignemnt.txt file added in local repository..
+3. check branches : git branch
+4. Create new Branch: gti branch <newBranchNm>
+5. connect to new branch:git checkout newBranch
+6. add new cr file in brnch: git add . 
+  		        git add <filename.txt>
+7. git commit "comment"
+8. 
+
